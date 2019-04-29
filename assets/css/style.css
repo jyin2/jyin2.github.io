@@ -1,0 +1,292 @@
+/*!
+ * Start Bootstrap - Small Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 60px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    font-size:16px;
+    overflow: hidden;
+}
+
+html, body {
+    font-family: 'Lato', sans-serif;
+}
+
+#flipclock {
+    display: inline-block;
+    width: auto;
+}
+
+#gallery > a {
+    /*float: left;*/
+    height: 185px;
+    width: 185px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    background-position: center 25%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#loading-gif {
+    margin: auto;
+    display: block;
+    max-width: 100px;
+}
+
+#test {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+@font-face {
+  font-family: 'brannonball';
+  src: url('../fonts/BrannbollFS_PERSONAL.ttf');
+}
+
+.demo-card-event.mdl-card {
+  width: 100%;
+  height: 100%;
+  background: #3E4EB8;
+}
+.demo-card-event > .mdl-card__actions {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+.demo-card-event > .mdl-card__title {
+  align-items: flex-start;
+}
+.demo-card-event > .mdl-card__title > h4 {
+  margin-top: 0;
+}
+.demo-card-event > .mdl-card__actions {
+  display: flex;
+  box-sizing:border-box;
+  align-items: center;
+}
+.demo-card-event > .mdl-card__actions > .material-icons {
+  padding-right: 10px;
+}
+.demo-card-event > .mdl-card__title,
+.demo-card-event > .mdl-card__actions,
+.demo-card-event > .mdl-card__actions > .mdl-button {
+  color: #fff;
+}
+
+.center {
+    text-align: center;
+}
+
+.lasaActive {
+  font-weight: bold;
+  opacity: 1;
+}
+
+.history-center {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color:#46288c;
+    font-family: Lato, sans-serif;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+    height: 400px;
+    background-color: #FFF;
+}
+.carousel {
+  margin-bottom: 60px;
+}
+.carousel-inner > .item > img {
+  zoom: 2;
+  margin: auto;
+  height: 100%;
+  max-height: 100%;
+  max-width: 100%;
+    align: middle;
+    object-fit: cover;
+}
+
+.title {
+    font-weight:bold;
+    margin-bottom: 24px;
+    margin-left: 0px;
+    font-family: Lato, sans-serif;
+}
+
+h2.title {
+    font-size: 34px;
+    font-family: Lato, sans-serif;
+}
+
+.navbar-fixed-top .nav {
+    padding: 10px 0;
+}
+
+img.center {
+    margin:auto;
+}
+
+p.center {
+    text-align: center;
+}
+
+.info {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.info > h2 {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 10px;
+}
+
+.row {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #46288c;
+    color:white;
+    font-size:14px;
+}
+
+footer > div {
+    padding: 30px 30px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 60px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 10px 0;
+    }
+
+.center {
+    text-align: center;
+}
+}
+
+@media(max-width:768px) {
+    text-align: left;
+}
+
+.post{
+    padding-top:36px;
+}
+.post-meta {
+    font-weight: 300;
+    font-size: 16px;
+    margin-left: 6px;
+    color: #777777;
+}
+.post-title {
+font-size: 36px;
+margin-top: 12px;
+margin-bottom: 12px;
+}
+.section-heading-spacer {
+border-top: 3px solid #e7e7e7;
+width: 400px;
+float: left;
+}
+.largelist > li {
+    font-size: 18px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+
+.navbar-inverse{
+    background-color:#46288c;
+    border-color:#46288c;
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+  font-size:16px;
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #777;
+}
+.navbar-brand{
+    min-height:70px;
+}
+.container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse{
+    margin-right:25px
+}
+iframe {
+    width: 100%;
+    height: 800px;
+}
+
+.post-excerpt>p>img {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+}
+
+.img-circle {
+	margin-bottom:1.5em;
+	margin-top:1.5em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: 200px;
+	background-size:cover;
+	display: flex;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+#dusty-img {
+	background-image: url("../img/dusty.jpg");
+}
+
+#greg-img {
+	background-image:url("../img/greg_palmer.jpg");
+}
+
+.row{
+    margin:auto;
+}
+@media(max-width:560px) {
+    .img-history {
+        height: 250px;
+    }
+    .state-countdown {
+        visibility: hidden;
+    }
+}
+.competitor {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.place {
+    text-align: center;
+    font-size: 18px;
+}
+.teamlist > li {
+    margin-left: 2px;
+    margin-right: 2px;
+}
