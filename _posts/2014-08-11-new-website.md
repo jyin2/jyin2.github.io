@@ -1,5 +1,5 @@
 ---
 title: New Website!
-author: Neil Patil
+author: John Yin
 ---
-We've created a new website for LASA SciO (this one).
+We've created a new website for Core Olympiads (this one).
