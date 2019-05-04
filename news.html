@@ -14,7 +14,9 @@ title: CoreOlys - News
                         </span>
                         <h2 class="post-title">{{ post.title | upcase }}</h2>
                     </header>
+                    {% if post.img %}
                     <img src="{{ site.baseurl }}/{{ post.img }}">
+                    {% endif %}
                     <section class="post-excerpt">
                         {{ post.content }}
                     </section>
