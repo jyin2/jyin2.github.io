@@ -1,10 +1,10 @@
 ---
 title: SHAKER’S CORE OLYMPIADS CLUB SENDS ANDREW HUANG TO USA BIOLOGY OLYMPIAD NATIONAL SEMIFINALS
 author: John Yin
-![Andrew Huang](/assets/Pictures/andrew_huang.jpg)
-
 ---
 For the first time in Shaker history, Core Olympiads member Andrew Huang qualified for the USA Biology Olympiad National Semifinal exam. In the qualifying open exam, Andrew scored in the top 9% in the nation. Out of 7200 participants, only 646 qualified for national semifinals.
+
+![Andrew Huang](/assets/Pictures/andrew_huang.jpg)
 
 The Core Olympiads club was started in 2017, with founders Rohan Bagchi and John Yin. The club’s goal is provide Shaker students the opportunity to participate in national science competitions. The club’s framework allows for students to independently explore specific science topics of interest but also providing guidance if needed. This allows for students to maximize what they get out of the club from what they put in. In the past two years, the Core Olympiads trained many Shaker students to participate in the Biology Olympiad, Chemistry Olympiad, Physics Olympiad, Earth Science Olympiad, and Computing (Computer Programming) Olympiad. Also, the club went to multiple “hackathons”, many of which are held at MIT. Shaker has won the best beginner hack at the MAHacks hackathon and second prize at the Blueprint Hackathon at MIT.
 
