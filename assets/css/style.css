@@ -158,7 +158,7 @@ p.center {
 
 footer {
     margin-top: 30px;
-    background-color: #46288c;
+    background-color: #192CD2;
     color:white;
     font-size:14px;
 }
@@ -212,8 +212,8 @@ float: left;
 
 
 .navbar-inverse{
-    background-color:#46288c;
-    border-color:#46288c;
+    background-color:#192CD2;
+    border-color:#192CD2;
 }
 .navbar-inverse .navbar-nav > li > a {
   color: #fff;
