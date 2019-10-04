@@ -6,7 +6,7 @@ Hey guys! Hope you had a wonderful summer! We are planning on having a Cookie Do
 
 Google Form:
 https://forms.gle/rPX9GU49s1yQTFjb6
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdcgJQRZNhrEc4OD8Ggox9r5BfyP2PRS2QJ9yz2bNFjcw8tZQ/viewform?embedded=true" width="640" height="1437" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 ![Cookie Dough](/assets/Pictures/fbthumb.jpg)
 
